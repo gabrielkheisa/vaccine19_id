@@ -13,4 +13,4 @@
 
 }
 </pre>
-<h3>URL : https://api.gabrielkheisa.xyz/covid19_id/</h3>
+<h3>URL : https://api.gabrielkheisa.xyz/vaccine_id/</h3>
